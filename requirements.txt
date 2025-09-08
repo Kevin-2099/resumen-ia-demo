@@ -2,3 +2,4 @@ transformers
 pdfplumber
 gradio
 torch
+langdetect
